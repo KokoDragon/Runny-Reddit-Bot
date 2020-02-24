@@ -1,6 +1,3 @@
-![Image of Reddit Logo](https://en.m.wikipedia.org/wiki/File:Reddit_logo_orange.svg)
-
-
 # Runny-Reddit-Bot
 >Python program employing web API's to automate and generate content for social media site Reddit.
 
